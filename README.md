@@ -1,6 +1,6 @@
 # Automated Image Search and Validation
 
-This Java project demonstrates automated testing of image search functionality using Selenium WebDriver and TestNG. The purpose of this project is to perform image search on Baidu's website and validate the search results.
+This Java project (BaiduSearchImage) demonstrates automated testing of image search functionality using Selenium WebDriver and TestNG. The purpose of this project is to perform image search on Baidu's website and validate the search results.
 
 ## Project Structure
 
