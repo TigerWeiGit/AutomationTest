@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="MySuite" duration-ms="12736" started-at="2023-09-20T12:33:04 GMT+08:00" finished-at="2023-09-20T12:33:17 GMT+08:00">
+    <groups>
+    </groups>
+    <test name="ImageSearchTest" duration-ms="12736" started-at="2023-09-20T12:33:04 GMT+08:00" finished-at="2023-09-20T12:33:17 GMT+08:00">
+      <class name="com.baidu.ImageSearchTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.baidu.ImageSearchTest@5419f379]" name="setUp" is-config="true" duration-ms="2679" started-at="2023-09-20T12:33:04 GMT+08:00" finished-at="2023-09-20T12:33:07 GMT+08:00">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testImageSearchAndValidation()[pri:0, instance:com.baidu.ImageSearchTest@5419f379]" name="testImageSearchAndValidation" duration-ms="9211" started-at="2023-09-20T12:33:07 GMT+08:00" finished-at="2023-09-20T12:33:16 GMT+08:00">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testImageSearchAndValidation -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.baidu.ImageSearchTest@5419f379]" name="tearDown" is-config="true" duration-ms="818" started-at="2023-09-20T12:33:16 GMT+08:00" finished-at="2023-09-20T12:33:17 GMT+08:00">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.baidu.ImageSearchTest -->
+    </test> <!-- ImageSearchTest -->
+  </suite> <!-- MySuite -->
+</testng-results>
